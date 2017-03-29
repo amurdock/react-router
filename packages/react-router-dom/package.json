@@ -1,5 +1,5 @@
 {
-  "name": "react-router-dom",
+  "name": "@amurdock/react-router-dom",
   "version": "4.0.0",
   "description": "DOM bindings for React Router",
   "repository": "ReactTraining/react-router",
